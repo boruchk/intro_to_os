@@ -1,0 +1,19 @@
+# Compiled source code
+*.o
+*.so
+*.dll
+*.exe
+*.out
+*.obj
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Kernel object files
+*.ko
